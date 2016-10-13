@@ -1,0 +1,48 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#4A312A</item>
+        <item name="colorPrimaryDark">#2F1D1A</item>
+        <item name="colorAccent">#4040ff</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <!--<item name="windowActionBar">false</item>-->
+        <!--<item name="windowNoTitle">true</item>-->
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="CategoryStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">26dp</item>
+        <item name="android:fontFamily">casual</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="CategoryStyleNumber">
+        <item name="colorPrimaryDark">@color/category_numbers</item>
+    </style>
+
+    <style name="CategoryStyleColor">
+        <item name="colorPrimaryDark">@color/category_colors</item>
+    </style>
+
+    <style name="CategoryStyleFamily">
+        <item name="colorPrimaryDark">@color/category_family</item>
+    </style>
+
+    <style name="CategoryStylePhrase">
+        <item name="colorPrimaryDark">@color/category_phrases</item>
+    </style>
+
+</resources>
