@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Café App</string>
+    <string name="chocolate_name_xml">Chocolat</string>
+    <string name="decrement_toast">Vous ne pouvez pas commander moins d\'une Coupe</string>
+    <string name="increment_toast">Vous ne pouvez pas commander plus de dix Cup</string>
+
+
+    <string name="order_name">Commande</string>
+    <string name="order_summ_chocolate">Ajoutée chocolat ?</string>
+    <string name="order_summ_name"></string>
+    <string name="order_summ_quantity">Quantité:</string>
+    <string name="order_summ_thanks">Merci !..</string>
+    <string name="order_summ_total">Total: $</string>
+    <string name="order_summ_whippedCream">Ajoutée crèam instantanée ?</string>
+
+    <string name="price_name">Total: $10</string>
+    <string name="quantity_name">Quantité</string>
+    <string name="topping_name">Ingredientis</string>
+    <string name="whippedCream_name">Crèam instantanée</string>
+    <string name="Type_a_name">Tapez un nom</string>
+</resources>
