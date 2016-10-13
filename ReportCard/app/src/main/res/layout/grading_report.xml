@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/myreport"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/id_of_student"
+        style="@style/MyStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mark Sheet"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/english"
+        style="@style/MyStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="English mArks : 100"
+        />
+
+    <TextView
+        android:id="@+id/math"
+        style="@style/MyStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Physic mArks : 100"
+        />
+
+    <TextView
+        android:id="@+id/java"
+        style="@style/MyStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Math mArks : 100"
+        />
+
+    <TextView
+        android:id="@+id/android"
+        style="@style/MyStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Android mArks : 100"
+        />
+
+    <TextView
+        android:id="@+id/html"
+        style="@style/MyStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="JAva mArks : 100"
+        />
+
+    <TextView
+        android:id="@+id/grades"
+        style="@style/MyStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Grades : A+"
+        />
+
+    <TextView
+        android:id="@+id/percentage"
+        style="@style/MyStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Percentage : 85%"
+        />
+</LinearLayout>
