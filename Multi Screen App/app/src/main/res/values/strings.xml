@@ -1,0 +1,23 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Miwok App</string>
+    <string name="number_name">Numbers</string>
+    <string name="color_name">Colors</string>
+    <string name="family_name">Family</string>
+    <string name="phrase_name">Phrases</string>
+
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Proverbs\nکہاوت</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors\nرنگ</string>
+
+    <!-- Category name for the vocabulary words for word_list [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers\nتعداد</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family Members\nخاندان کے افراد</string>
+    <string name="action_settings">setting</string>
+    <string name="next">Next</string>
+</resources>
